@@ -1,14 +1,14 @@
-# Spec Code of Conduct Incident Response Policy
+# Does Not Compute Code of Conduct Incident Response Policy
 
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-This document describes how to respond to reports of harassment, as outlined in the [Spec Code of Conduct](https://specfm.github.io/code-of-conduct/).
+This document describes how to respond to reports of harassment, as outlined in the [Does Not Compute Code of Conduct](https://specfm.github.io/code-of-conduct/).
 
 ## Receiving Harassment Reports
 
-If someone reports harassment to a Spec host, their report will act as a written account of what happened. This should be kept confidential to as small a group as reasonably possible.
+If someone reports harassment to a Does Not Compute host, their report will act as a written account of what happened. This should be kept confidential to as small a group as reasonably possible.
 
-If a Spec host receives a verbal report, they should themselves write down what they were told as soon as they can, in case they don't get anything better. When possible, verbal reports are usually better conducted in a quiet/private place, for the safety and comfort of the reporter. This also decreases the chances for someone to overhear sensitive information.
+If a Does Not Compute host receives a verbal report, they should themselves write down what they were told as soon as they can, in case they don't get anything better. When possible, verbal reports are usually better conducted in a quiet/private place, for the safety and comfort of the reporter. This also decreases the chances for someone to overhear sensitive information.
 
 If the following information is not volunteered in the written or verbal report, ask for it/include it, but do not pressure the reporter to provide it:
 
@@ -53,9 +53,9 @@ Offer the reporter/victim a chance to decide if any further action is taken: **"
 Things not to do:
 
 * Do not overtly invite them to withdraw the complaint or mention that withdrawal is OK: this suggests that you want them to do so, and is therefore coercive. "If you're OK with it [pursuing the complaint]" suggests that you are by default pursuing it and is not coercive.
-* Do not ask for their advice on how to deal with the complaint: this is the responsibility of the Spec hosts
-* Do not offer them input into penalties: this is the responsibility of the Spec hosts
-* Do not share details of the people involved or incident without specific permission from the victim. This includes sharing with other Spec hosts.
+* Do not ask for their advice on how to deal with the complaint: this is the responsibility of the Does Not Compute hosts
+* Do not offer them input into penalties: this is the responsibility of the Does Not Compute hosts
+* Do not share details of the people involved or incident without specific permission from the victim. This includes sharing with other Does Not Compute hosts.
 
 
 ## Staff Action in Response to Harassment Reports
